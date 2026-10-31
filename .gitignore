@@ -1,0 +1,22 @@
+# Keep private device and build artifacts out of this source-diff repository.
+*.img
+Image
+Image.gz
+vmlinux
+System.map
+*.pit
+*.zip
+*.tar
+*.tar.md5
+*.log
+*.bin
+*.ko
+*.o
+*.dtb
+*.jks
+*.keystore
+build/
+out/
+toolchain/
+backups/
+evidence/
